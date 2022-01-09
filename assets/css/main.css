@@ -172,6 +172,8 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		color: #000000;
+		font-weight: bold;
 	}
 
 	h1 {
